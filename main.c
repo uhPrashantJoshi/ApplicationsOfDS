@@ -89,7 +89,7 @@ void main()
     do
     {
 
-        printf("===========================\nEnter your choice: \n1.INSERT AT THE END\n2.DISPLAY\n6.INSERT IN BW\n3.LAST TO FIRST\n4.EXIT\n===========================\n");
+        printf("===========================\nEnter your choice: \n1.INSERT AT THE END\n2.DISPLAY\n3.LAST TO FIRST\n4.EXIT\n===========================\n");
         scanf("%d", &ch);
 
         switch (ch)
